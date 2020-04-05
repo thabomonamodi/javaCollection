@@ -19,7 +19,6 @@ public class JavaCollection
             queue.add(4);
             queue.add(4);
 
-            //int[] subArray =
             set.addAll(queue);
             List<Integer> list = Arrays.asList(6,2,6,8,3,7,1,4,4);
 
